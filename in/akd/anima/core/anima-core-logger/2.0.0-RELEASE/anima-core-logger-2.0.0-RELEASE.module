@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "in.akd.anima.core",
+    "module": "anima-core-logger",
+    "version": "2.0.0-RELEASE",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "anima-core-logger-2.0.0-RELEASE.jar",
+          "url": "anima-core-logger-2.0.0-RELEASE.jar",
+          "size": 3004,
+          "sha512": "bde49f822ba1164fe64111d48116fef29815865e7b0ba40beb8ec815991be987493cf0d9a7b0c5a2a02d3bddd0fa2a01d5aa3c40d665b1a15d725979d5a32431",
+          "sha256": "850d2515a5f844f864e65af10ad19f1c14e6213625d6395179af25a238edc52d",
+          "sha1": "64ec2fe6e9cc11e6f37ce9d87fa1ff4aec4fa5ec",
+          "md5": "4ecbae8feb867b4e99ecd60d3aeb208b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "anima-core-logger-2.0.0-RELEASE.jar",
+          "url": "anima-core-logger-2.0.0-RELEASE.jar",
+          "size": 3004,
+          "sha512": "bde49f822ba1164fe64111d48116fef29815865e7b0ba40beb8ec815991be987493cf0d9a7b0c5a2a02d3bddd0fa2a01d5aa3c40d665b1a15d725979d5a32431",
+          "sha256": "850d2515a5f844f864e65af10ad19f1c14e6213625d6395179af25a238edc52d",
+          "sha1": "64ec2fe6e9cc11e6f37ce9d87fa1ff4aec4fa5ec",
+          "md5": "4ecbae8feb867b4e99ecd60d3aeb208b"
+        }
+      ]
+    }
+  ]
+}
