@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "in.akd.anima.core",
+    "module": "anima-crud",
+    "version": "2.0.0-RELEASE",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "anima-crud-2.0.0-RELEASE.jar",
+          "url": "anima-crud-2.0.0-RELEASE.jar",
+          "size": 83255,
+          "sha512": "e7505aa0be5f8bf7840cf04184f1cf067ecdb6659ad33d5f7175711b57283fa84410f6fc75ac995265486576f01e0fa675daf74d790feb973d2cd465bd81cfa5",
+          "sha256": "ca046cb5086ca42062d2ef480f7ab80e6db2bb84d5d5364f5112b48e4af1d1b2",
+          "sha1": "38a15b6fad3d6a738e59bbf8100f3184e18fcff8",
+          "md5": "c1657cf7568915cee7b465e683055f48"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "com.google.auto.service",
+          "module": "auto-service",
+          "version": {
+            "requires": "1.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "anima-crud-2.0.0-RELEASE.jar",
+          "url": "anima-crud-2.0.0-RELEASE.jar",
+          "size": 83255,
+          "sha512": "e7505aa0be5f8bf7840cf04184f1cf067ecdb6659ad33d5f7175711b57283fa84410f6fc75ac995265486576f01e0fa675daf74d790feb973d2cd465bd81cfa5",
+          "sha256": "ca046cb5086ca42062d2ef480f7ab80e6db2bb84d5d5364f5112b48e4af1d1b2",
+          "sha1": "38a15b6fad3d6a738e59bbf8100f3184e18fcff8",
+          "md5": "c1657cf7568915cee7b465e683055f48"
+        }
+      ]
+    }
+  ]
+}
