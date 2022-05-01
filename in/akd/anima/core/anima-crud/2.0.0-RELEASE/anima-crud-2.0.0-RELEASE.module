@@ -58,6 +58,13 @@
           "version": {
             "requires": "1.0.1"
           }
+        },
+        {
+          "group": "org.apache.maven.plugins",
+          "module": "maven-compiler-plugin",
+          "version": {
+            "requires": "3.10.1"
+          }
         }
       ],
       "files": [
