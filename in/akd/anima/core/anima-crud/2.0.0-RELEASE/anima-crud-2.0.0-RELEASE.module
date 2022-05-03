@@ -27,11 +27,11 @@
         {
           "name": "anima-crud-2.0.0-RELEASE.jar",
           "url": "anima-crud-2.0.0-RELEASE.jar",
-          "size": 83232,
-          "sha512": "49db274796af1f2e40ec7bbfaa8b6ea71387640bece92eee558dd7c3c49bcea1b1f2dc51c8baada74e0f8909204de9a9f97ef62be3d1ed63039eaecebcf9d50a",
-          "sha256": "908bbef2cce43599fdc0d21101fda6ebab001192f0a23eb3ba136f4fcc407dbc",
-          "sha1": "01e3653b163fd17d173938fd50fdba2cd44f14c0",
-          "md5": "c35821e2130e5667858c499193c91dbb"
+          "size": 85451,
+          "sha512": "3d89b7ccd890f121482d9bed4316ed24e1fb88f944c8fe0630468e0928a6885a74e8713ca6955dbc7680e0d751955069714c5b8901344337cf755a74c9f10658",
+          "sha256": "06e6277bc5a5513ea38c21764a3e2a17c301bdd0eb4e0cfafdeb9f954729d22c",
+          "sha1": "fae44c4606771af36ba033a510f6d89ea462f348",
+          "md5": "02c72d104f664f5c144ee59fc04d98df"
         }
       ]
     },
@@ -58,24 +58,17 @@
           "version": {
             "requires": "1.0.1"
           }
-        },
-        {
-          "group": "org.apache.maven.plugins",
-          "module": "maven-compiler-plugin",
-          "version": {
-            "requires": "3.10.1"
-          }
         }
       ],
       "files": [
         {
           "name": "anima-crud-2.0.0-RELEASE.jar",
           "url": "anima-crud-2.0.0-RELEASE.jar",
-          "size": 83232,
-          "sha512": "49db274796af1f2e40ec7bbfaa8b6ea71387640bece92eee558dd7c3c49bcea1b1f2dc51c8baada74e0f8909204de9a9f97ef62be3d1ed63039eaecebcf9d50a",
-          "sha256": "908bbef2cce43599fdc0d21101fda6ebab001192f0a23eb3ba136f4fcc407dbc",
-          "sha1": "01e3653b163fd17d173938fd50fdba2cd44f14c0",
-          "md5": "c35821e2130e5667858c499193c91dbb"
+          "size": 85451,
+          "sha512": "3d89b7ccd890f121482d9bed4316ed24e1fb88f944c8fe0630468e0928a6885a74e8713ca6955dbc7680e0d751955069714c5b8901344337cf755a74c9f10658",
+          "sha256": "06e6277bc5a5513ea38c21764a3e2a17c301bdd0eb4e0cfafdeb9f954729d22c",
+          "sha1": "fae44c4606771af36ba033a510f6d89ea462f348",
+          "md5": "02c72d104f664f5c144ee59fc04d98df"
         }
       ]
     }
