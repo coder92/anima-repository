@@ -27,11 +27,11 @@
         {
           "name": "anima-crud-2.0.0-RELEASE.jar",
           "url": "anima-crud-2.0.0-RELEASE.jar",
-          "size": 85514,
-          "sha512": "e695ca036e0779e307faf83858da342d8b21e74f92f752df1acb5a97b2d65f01929ed8ac592da74d86701bfb815630086f4accfd8f5fa2fcc56a0e895b01ef05",
-          "sha256": "c0f1f9350274618a91a7959282b1ce705ce8266a5c5f3f86cf755508596f3879",
-          "sha1": "4a80087686d0066521d05be1a9acbcc08e1598f2",
-          "md5": "6d18af2b82411d8c0e49cc943b3730c5"
+          "size": 86112,
+          "sha512": "c6852348e5a8da6fcbda55e517e5753e67ba6d128047d4ef434866a0e2ea0eb296d19b348fc2ed915dd4d6661f7f7e16717607b9cebf9922999d5237d76d07c3",
+          "sha256": "35c0c4654a6b17aa548bdd89fcbafcc4c37d03ea61a9e17ff93d9331d05d12fe",
+          "sha1": "48a2e2ffca2de7a55589295038eecde76a453b8e",
+          "md5": "aaaa46bbfc79f1ddee61e6251acd1e00"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "anima-crud-2.0.0-RELEASE.jar",
           "url": "anima-crud-2.0.0-RELEASE.jar",
-          "size": 85514,
-          "sha512": "e695ca036e0779e307faf83858da342d8b21e74f92f752df1acb5a97b2d65f01929ed8ac592da74d86701bfb815630086f4accfd8f5fa2fcc56a0e895b01ef05",
-          "sha256": "c0f1f9350274618a91a7959282b1ce705ce8266a5c5f3f86cf755508596f3879",
-          "sha1": "4a80087686d0066521d05be1a9acbcc08e1598f2",
-          "md5": "6d18af2b82411d8c0e49cc943b3730c5"
+          "size": 86112,
+          "sha512": "c6852348e5a8da6fcbda55e517e5753e67ba6d128047d4ef434866a0e2ea0eb296d19b348fc2ed915dd4d6661f7f7e16717607b9cebf9922999d5237d76d07c3",
+          "sha256": "35c0c4654a6b17aa548bdd89fcbafcc4c37d03ea61a9e17ff93d9331d05d12fe",
+          "sha1": "48a2e2ffca2de7a55589295038eecde76a453b8e",
+          "md5": "aaaa46bbfc79f1ddee61e6251acd1e00"
         }
       ]
     }
