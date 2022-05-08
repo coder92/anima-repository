@@ -1,0 +1,209 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "in.akd.anima",
+    "module": "quiz",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "quiz-1.0-SNAPSHOT-plain.jar",
+          "url": "quiz-1.0-SNAPSHOT-plain.jar",
+          "size": 58344,
+          "sha512": "991216144e043565b82af2e76b3c723f94404847533bd27f7364c7dece042ec452eb7b541140f2abd2013253f5f9b4e3ccfb43fed31bad178d6a211b87114900",
+          "sha256": "039a352ab942ff955aa60129b1e183d1c9c79dff2dc0bac152129a8500517b0a",
+          "sha1": "6de001dd33fea1f684fd5f0fc52ee0637ae20c32",
+          "md5": "efc27bd1733d800a4eec60eb1415e448"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-cache",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "javax.validation",
+          "module": "validation-api",
+          "version": {
+            "requires": "2.0.1.Final"
+          }
+        },
+        {
+          "group": "org.apache.tomcat",
+          "module": "tomcat-jdbc",
+          "version": {
+            "requires": "9.0.10"
+          }
+        },
+        {
+          "group": "javax.xml.bind",
+          "module": "jaxb-api",
+          "version": {
+            "requires": "2.3.1"
+          }
+        },
+        {
+          "group": "com.sun.xml.ws",
+          "module": "jaxws-ri",
+          "version": {
+            "requires": "2.3.2"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-jersey",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "org.glassfish.jersey.media",
+          "module": "jersey-media-multipart",
+          "version": {
+            "requires": "2.25.1"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "21.0"
+          }
+        },
+        {
+          "group": "io.swagger.core.v3",
+          "module": "swagger-jaxrs2",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "org.springdoc",
+          "module": "springdoc-openapi-ui",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "io.swagger.parser.v3",
+          "module": "swagger-parser-v3",
+          "version": {
+            "requires": "2.0.27"
+          }
+        },
+        {
+          "group": "org.mapstruct",
+          "module": "mapstruct",
+          "version": {
+            "requires": "1.4.2.Final"
+          }
+        },
+        {
+          "group": "org.apache.poi",
+          "module": "poi",
+          "version": {
+            "requires": "5.2.2"
+          }
+        },
+        {
+          "group": "in.akd.anima.core",
+          "module": "anima-core-logger",
+          "version": {
+            "requires": "2.0.0-RELEASE"
+          }
+        },
+        {
+          "group": "in.akd.anima.core",
+          "module": "anima-utility",
+          "version": {
+            "requires": "2.0.0-RELEASE"
+          }
+        },
+        {
+          "group": "in.akd.anima.core",
+          "module": "anima-crud",
+          "version": {
+            "requires": "2.0.0-RELEASE"
+          }
+        },
+        {
+          "group": "org.apache.maven.plugins",
+          "module": "maven-compiler-plugin",
+          "version": {
+            "requires": "3.10.1"
+          }
+        },
+        {
+          "group": "org.flywaydb",
+          "module": "flyway-core",
+          "version": {
+            "requires": "6.5.7"
+          }
+        },
+        {
+          "group": "mysql",
+          "module": "mysql-connector-java",
+          "version": {
+            "requires": "8.0.28"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "quiz-1.0-SNAPSHOT-plain.jar",
+          "url": "quiz-1.0-SNAPSHOT-plain.jar",
+          "size": 58344,
+          "sha512": "991216144e043565b82af2e76b3c723f94404847533bd27f7364c7dece042ec452eb7b541140f2abd2013253f5f9b4e3ccfb43fed31bad178d6a211b87114900",
+          "sha256": "039a352ab942ff955aa60129b1e183d1c9c79dff2dc0bac152129a8500517b0a",
+          "sha1": "6de001dd33fea1f684fd5f0fc52ee0637ae20c32",
+          "md5": "efc27bd1733d800a4eec60eb1415e448"
+        }
+      ]
+    }
+  ]
+}
