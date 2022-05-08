@@ -28,10 +28,10 @@
           "name": "quiz-1.0.0-RELEASE-plain.jar",
           "url": "quiz-1.0.0-RELEASE-plain.jar",
           "size": 58344,
-          "sha512": "bcca46ec2771ae671c01259dc5ba990cc61400ca9a63895d2760644f680498867ea59d970ddc62ca39357d6fe822e1811670a3fdeebad56c627b598cec008e44",
-          "sha256": "9d3ee1272018d4fe928377fe422ab2253d8b27cf0592b00f732a33204367096b",
-          "sha1": "e9c16dc109987a0220a581bbe33ebdb359b2ec05",
-          "md5": "a9abaa415345306b4d71a379a513dca0"
+          "sha512": "40f6331fb262ed07bdd7bf67aa68a26686be321d21a1fa15800a7ff0080af0e1422648d8e1805d48a5da16b7b46923a051116678d873565ea8879081ab149c16",
+          "sha256": "9f61bb2e0cbd8e73ce47b9ab767519a495e8991abd981bdc7e4d3f85752ee9d4",
+          "sha1": "92b86c81b117b2dfc764aff16e450cf29076d464",
+          "md5": "df478084bff1a4b6d8a2315be09cd8dc"
         }
       ]
     },
@@ -324,10 +324,10 @@
           "name": "quiz-1.0.0-RELEASE-plain.jar",
           "url": "quiz-1.0.0-RELEASE-plain.jar",
           "size": 58344,
-          "sha512": "bcca46ec2771ae671c01259dc5ba990cc61400ca9a63895d2760644f680498867ea59d970ddc62ca39357d6fe822e1811670a3fdeebad56c627b598cec008e44",
-          "sha256": "9d3ee1272018d4fe928377fe422ab2253d8b27cf0592b00f732a33204367096b",
-          "sha1": "e9c16dc109987a0220a581bbe33ebdb359b2ec05",
-          "md5": "a9abaa415345306b4d71a379a513dca0"
+          "sha512": "40f6331fb262ed07bdd7bf67aa68a26686be321d21a1fa15800a7ff0080af0e1422648d8e1805d48a5da16b7b46923a051116678d873565ea8879081ab149c16",
+          "sha256": "9f61bb2e0cbd8e73ce47b9ab767519a495e8991abd981bdc7e4d3f85752ee9d4",
+          "sha1": "92b86c81b117b2dfc764aff16e450cf29076d464",
+          "md5": "df478084bff1a4b6d8a2315be09cd8dc"
         }
       ]
     }
