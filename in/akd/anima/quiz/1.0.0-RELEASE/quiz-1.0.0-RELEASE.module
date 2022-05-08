@@ -3,7 +3,7 @@
   "component": {
     "group": "in.akd.anima",
     "module": "quiz",
-    "version": "1.0-RELEASE",
+    "version": "1.0.0-RELEASE",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "quiz-1.0-RELEASE-plain.jar",
-          "url": "quiz-1.0-RELEASE-plain.jar",
+          "name": "quiz-1.0.0-RELEASE-plain.jar",
+          "url": "quiz-1.0.0-RELEASE-plain.jar",
           "size": 58344,
-          "sha512": "160f72ba5d85a9dc9ac71dd6b634a898ced7fe987c4b345fc39c33bb030cb7a3ea2aa00fb1aa079ade345496939af748a520e24e3e5d3f28d50dd0b1ea68fdcc",
-          "sha256": "57b907dafda16d72540c0149df50df151dbeb834151f13c30f497ca3c1fcfdfc",
-          "sha1": "1b168bfd7510f139a6d7d3ab46f30d3d90ba96ad",
-          "md5": "50d09035721cbc71d6afc38fd1684917"
+          "sha512": "bcca46ec2771ae671c01259dc5ba990cc61400ca9a63895d2760644f680498867ea59d970ddc62ca39357d6fe822e1811670a3fdeebad56c627b598cec008e44",
+          "sha256": "9d3ee1272018d4fe928377fe422ab2253d8b27cf0592b00f732a33204367096b",
+          "sha1": "e9c16dc109987a0220a581bbe33ebdb359b2ec05",
+          "md5": "a9abaa415345306b4d71a379a513dca0"
         }
       ]
     },
@@ -321,13 +321,13 @@
       ],
       "files": [
         {
-          "name": "quiz-1.0-RELEASE-plain.jar",
-          "url": "quiz-1.0-RELEASE-plain.jar",
+          "name": "quiz-1.0.0-RELEASE-plain.jar",
+          "url": "quiz-1.0.0-RELEASE-plain.jar",
           "size": 58344,
-          "sha512": "160f72ba5d85a9dc9ac71dd6b634a898ced7fe987c4b345fc39c33bb030cb7a3ea2aa00fb1aa079ade345496939af748a520e24e3e5d3f28d50dd0b1ea68fdcc",
-          "sha256": "57b907dafda16d72540c0149df50df151dbeb834151f13c30f497ca3c1fcfdfc",
-          "sha1": "1b168bfd7510f139a6d7d3ab46f30d3d90ba96ad",
-          "md5": "50d09035721cbc71d6afc38fd1684917"
+          "sha512": "bcca46ec2771ae671c01259dc5ba990cc61400ca9a63895d2760644f680498867ea59d970ddc62ca39357d6fe822e1811670a3fdeebad56c627b598cec008e44",
+          "sha256": "9d3ee1272018d4fe928377fe422ab2253d8b27cf0592b00f732a33204367096b",
+          "sha1": "e9c16dc109987a0220a581bbe33ebdb359b2ec05",
+          "md5": "a9abaa415345306b4d71a379a513dca0"
         }
       ]
     }
