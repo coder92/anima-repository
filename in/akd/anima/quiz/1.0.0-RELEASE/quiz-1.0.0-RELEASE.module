@@ -28,10 +28,10 @@
           "name": "quiz-1.0.0-RELEASE.jar",
           "url": "quiz-1.0.0-RELEASE.jar",
           "size": 60643,
-          "sha512": "783c40069bdea82d0c54fb1c3ee2689637eb2e3eb61cb757f63a1eb8a916d7c9877ce0c540ae24d051da0c1ffdebcb6ed7eb2268623e59cf28f53a7b5f1ddb91",
-          "sha256": "6dc6e3e541ec11272bdc35eec69ecce5bfa83d23071f4cca7df2a2ac37037676",
-          "sha1": "9e1a1d81b7d5d037e7902a24ab5f4a30c87b6a0e",
-          "md5": "8357a47ed3a05ac6218bff28aa8d614f"
+          "sha512": "233e7534c3d251cbaac5e0ae00d62d6fb7f2d45983609e476e4c08c352a3f326976f2189de0c9ec2df8ffceefb570c193d658500f527549bf88ae573c5fc0db8",
+          "sha256": "d6966cb543456e6f35f2c8cc56dffe9d3053e685b1058a96809041936cccd122",
+          "sha1": "f5357f39b38fc1be3326c04b9f4f87223fc6c7b1",
+          "md5": "1adebc6995fc093a7f24cd77671235bf"
         }
       ]
     },
@@ -324,10 +324,10 @@
           "name": "quiz-1.0.0-RELEASE.jar",
           "url": "quiz-1.0.0-RELEASE.jar",
           "size": 60643,
-          "sha512": "783c40069bdea82d0c54fb1c3ee2689637eb2e3eb61cb757f63a1eb8a916d7c9877ce0c540ae24d051da0c1ffdebcb6ed7eb2268623e59cf28f53a7b5f1ddb91",
-          "sha256": "6dc6e3e541ec11272bdc35eec69ecce5bfa83d23071f4cca7df2a2ac37037676",
-          "sha1": "9e1a1d81b7d5d037e7902a24ab5f4a30c87b6a0e",
-          "md5": "8357a47ed3a05ac6218bff28aa8d614f"
+          "sha512": "233e7534c3d251cbaac5e0ae00d62d6fb7f2d45983609e476e4c08c352a3f326976f2189de0c9ec2df8ffceefb570c193d658500f527549bf88ae573c5fc0db8",
+          "sha256": "d6966cb543456e6f35f2c8cc56dffe9d3053e685b1058a96809041936cccd122",
+          "sha1": "f5357f39b38fc1be3326c04b9f4f87223fc6c7b1",
+          "md5": "1adebc6995fc093a7f24cd77671235bf"
         }
       ]
     }
