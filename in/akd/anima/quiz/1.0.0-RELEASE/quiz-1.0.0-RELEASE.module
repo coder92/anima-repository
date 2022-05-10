@@ -22,18 +22,7 @@
         "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
-      },
-      "files": [
-        {
-          "name": "quiz-1.0.0-RELEASE-plain.jar",
-          "url": "quiz-1.0.0-RELEASE-plain.jar",
-          "size": 58344,
-          "sha512": "40f6331fb262ed07bdd7bf67aa68a26686be321d21a1fa15800a7ff0080af0e1422648d8e1805d48a5da16b7b46923a051116678d873565ea8879081ab149c16",
-          "sha256": "9f61bb2e0cbd8e73ce47b9ab767519a495e8991abd981bdc7e4d3f85752ee9d4",
-          "sha1": "92b86c81b117b2dfc764aff16e450cf29076d464",
-          "md5": "df478084bff1a4b6d8a2315be09cd8dc"
-        }
-      ]
+      }
     },
     {
       "name": "runtimeElements",
@@ -317,17 +306,6 @@
               "module": "protobuf-java"
             }
           ]
-        }
-      ],
-      "files": [
-        {
-          "name": "quiz-1.0.0-RELEASE-plain.jar",
-          "url": "quiz-1.0.0-RELEASE-plain.jar",
-          "size": 58344,
-          "sha512": "40f6331fb262ed07bdd7bf67aa68a26686be321d21a1fa15800a7ff0080af0e1422648d8e1805d48a5da16b7b46923a051116678d873565ea8879081ab149c16",
-          "sha256": "9f61bb2e0cbd8e73ce47b9ab767519a495e8991abd981bdc7e4d3f85752ee9d4",
-          "sha1": "92b86c81b117b2dfc764aff16e450cf29076d464",
-          "md5": "df478084bff1a4b6d8a2315be09cd8dc"
         }
       ]
     }
