@@ -27,11 +27,11 @@
         {
           "name": "quiz-1.0.0-RELEASE-plain.jar",
           "url": "quiz-1.0.0-RELEASE-plain.jar",
-          "size": 65598,
-          "sha512": "fabae20de87fd6f508d54313d3bf67e2d7c1005ad9342ed479af209ba09933a9acff0a2e6303ecf1f6be410c21e29938bb0b46b1b515f90b0b044f23aaeabca2",
-          "sha256": "7f57754f1d890ef4138f61772f1e998985b2ab859fd92d0c71012cc3bea650c0",
-          "sha1": "31a2a9f1da7e014daec298377e789346676006bf",
-          "md5": "dcebb6d3f695e9fdaddb833cc40234d4"
+          "size": 65592,
+          "sha512": "b84bd963ab4229ff41bf7b13136833ee2c911b8674f59e4697000191c6b7220fc243737e9579a94c6158b407b0389cc87dd096d8722257a078ccbc1b03455abc",
+          "sha256": "4194b88d836204d1d41e0c8f3af8eb4007e51f2a95a5f3b01abd349e292316e1",
+          "sha1": "475b4e8bbf69535cac067886826f374c8fd47232",
+          "md5": "15f4d1e7f4092631f51c5641ed353d15"
         }
       ]
     },
@@ -323,11 +323,11 @@
         {
           "name": "quiz-1.0.0-RELEASE-plain.jar",
           "url": "quiz-1.0.0-RELEASE-plain.jar",
-          "size": 65598,
-          "sha512": "fabae20de87fd6f508d54313d3bf67e2d7c1005ad9342ed479af209ba09933a9acff0a2e6303ecf1f6be410c21e29938bb0b46b1b515f90b0b044f23aaeabca2",
-          "sha256": "7f57754f1d890ef4138f61772f1e998985b2ab859fd92d0c71012cc3bea650c0",
-          "sha1": "31a2a9f1da7e014daec298377e789346676006bf",
-          "md5": "dcebb6d3f695e9fdaddb833cc40234d4"
+          "size": 65592,
+          "sha512": "b84bd963ab4229ff41bf7b13136833ee2c911b8674f59e4697000191c6b7220fc243737e9579a94c6158b407b0389cc87dd096d8722257a078ccbc1b03455abc",
+          "sha256": "4194b88d836204d1d41e0c8f3af8eb4007e51f2a95a5f3b01abd349e292316e1",
+          "sha1": "475b4e8bbf69535cac067886826f374c8fd47232",
+          "md5": "15f4d1e7f4092631f51c5641ed353d15"
         }
       ]
     }
