@@ -9,6 +9,7 @@
   <groupId>in.akd.anima</groupId>
   <artifactId>quiz</artifactId>
   <version>1.0.0-RELEASE</version>
+  <packaging>pom</packaging>
   <dependencies>
     <dependency>
       <groupId>org.springframework.boot</groupId>
