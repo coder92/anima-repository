@@ -1,0 +1,160 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "in.akd.anima.core",
+    "module": "anima-aws",
+    "version": "2.0.0-RELEASE",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "anima-aws-2.0.0-RELEASE.jar",
+          "url": "anima-aws-2.0.0-RELEASE.jar",
+          "size": 2892,
+          "sha512": "9bcdff3984042bfb9d65ad4a7a7ed651db5e998c67e826a8c697192abd3bd6e2ce935b8b9309a4785e424bb980fe8f9b1546100c51cb2d98dc06a7e6c3b933d0",
+          "sha256": "b6615fc76b32fada47f933427178a7381f7469e01b45d3dbbd907f7a13dc2ba2",
+          "sha1": "2376b3f492a8fe8d06498b969fd81b48fdd66fbe",
+          "md5": "2c3c5eb10717e5737f404856a675aec2"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.amazonaws",
+          "module": "aws-java-sdk",
+          "version": {
+            "requires": "1.11.201"
+          }
+        },
+        {
+          "group": "com.amazonaws",
+          "module": "aws-java-sdk-secretsmanager",
+          "version": {
+            "requires": "1.11.320"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-cache",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "javax.validation",
+          "module": "validation-api",
+          "version": {
+            "requires": "2.0.1.Final"
+          }
+        },
+        {
+          "group": "org.apache.tomcat",
+          "module": "tomcat-jdbc",
+          "version": {
+            "requires": "9.0.10"
+          }
+        },
+        {
+          "group": "javax.xml.bind",
+          "module": "jaxb-api",
+          "version": {
+            "requires": "2.3.1"
+          }
+        },
+        {
+          "group": "com.sun.xml.ws",
+          "module": "jaxws-ri",
+          "version": {
+            "requires": "2.3.2"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-jersey",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "org.glassfish.jersey.media",
+          "module": "jersey-media-multipart",
+          "version": {
+            "requires": "2.25.1"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "21.0"
+          }
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-webmvc",
+          "version": {
+            "requires": "4.3.12.RELEASE"
+          }
+        },
+        {
+          "group": "in.akd.anima.core",
+          "module": "anima-core-logger",
+          "version": {
+            "requires": "2.0.0-RELEASE"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "anima-aws-2.0.0-RELEASE.jar",
+          "url": "anima-aws-2.0.0-RELEASE.jar",
+          "size": 2892,
+          "sha512": "9bcdff3984042bfb9d65ad4a7a7ed651db5e998c67e826a8c697192abd3bd6e2ce935b8b9309a4785e424bb980fe8f9b1546100c51cb2d98dc06a7e6c3b933d0",
+          "sha256": "b6615fc76b32fada47f933427178a7381f7469e01b45d3dbbd907f7a13dc2ba2",
+          "sha1": "2376b3f492a8fe8d06498b969fd81b48fdd66fbe",
+          "md5": "2c3c5eb10717e5737f404856a675aec2"
+        }
+      ]
+    }
+  ]
+}
