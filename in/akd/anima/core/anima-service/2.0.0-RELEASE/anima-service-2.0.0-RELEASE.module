@@ -1,0 +1,166 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "in.akd.anima.core",
+    "module": "anima-service",
+    "version": "2.0.0-RELEASE",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "anima-service-2.0.0-RELEASE.jar",
+          "url": "anima-service-2.0.0-RELEASE.jar",
+          "size": 2021,
+          "sha512": "f723314e8b370814e8130ec04c42b022f9632f24a510bdee1828191086fcc0d9cb1b0159d78036f47d59765c11e8be7a9e774e2f760fee2845b482652e61be35",
+          "sha256": "ff46e33748b087ebfff9792d06a22f7a83cea899031f8769b97e23162ff55948",
+          "sha1": "ba847b33a3157aaad6368ca35260c0aa00241bc9",
+          "md5": "6d2bc50d72f379d18630779a9e33c2aa"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-cache",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "javax.validation",
+          "module": "validation-api",
+          "version": {
+            "requires": "2.0.1.Final"
+          }
+        },
+        {
+          "group": "org.apache.tomcat",
+          "module": "tomcat-jdbc",
+          "version": {
+            "requires": "9.0.10"
+          }
+        },
+        {
+          "group": "javax.xml.bind",
+          "module": "jaxb-api",
+          "version": {
+            "requires": "2.3.1"
+          }
+        },
+        {
+          "group": "com.sun.xml.ws",
+          "module": "jaxws-ri",
+          "version": {
+            "requires": "2.3.2"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-jersey",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "org.glassfish.jersey.media",
+          "module": "jersey-media-multipart",
+          "version": {
+            "requires": "2.25.1"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "21.0"
+          }
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-webmvc",
+          "version": {
+            "requires": "4.3.12.RELEASE"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          },
+          "excludes": [
+            {
+              "group": "com.zaxxer",
+              "module": "HikariCP"
+            }
+          ]
+        },
+        {
+          "group": "org.flywaydb",
+          "module": "flyway-core",
+          "version": {
+            "requires": "4.2.0"
+          }
+        },
+        {
+          "group": "mysql",
+          "module": "mysql-connector-java",
+          "version": {
+            "requires": "5.1.39"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "anima-service-2.0.0-RELEASE.jar",
+          "url": "anima-service-2.0.0-RELEASE.jar",
+          "size": 2021,
+          "sha512": "f723314e8b370814e8130ec04c42b022f9632f24a510bdee1828191086fcc0d9cb1b0159d78036f47d59765c11e8be7a9e774e2f760fee2845b482652e61be35",
+          "sha256": "ff46e33748b087ebfff9792d06a22f7a83cea899031f8769b97e23162ff55948",
+          "sha1": "ba847b33a3157aaad6368ca35260c0aa00241bc9",
+          "md5": "6d2bc50d72f379d18630779a9e33c2aa"
+        }
+      ]
+    }
+  ]
+}
