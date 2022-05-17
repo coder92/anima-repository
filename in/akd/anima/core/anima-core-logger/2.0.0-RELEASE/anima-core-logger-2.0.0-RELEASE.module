@@ -28,10 +28,10 @@
           "name": "anima-core-logger-2.0.0-RELEASE.jar",
           "url": "anima-core-logger-2.0.0-RELEASE.jar",
           "size": 3004,
-          "sha512": "bde49f822ba1164fe64111d48116fef29815865e7b0ba40beb8ec815991be987493cf0d9a7b0c5a2a02d3bddd0fa2a01d5aa3c40d665b1a15d725979d5a32431",
-          "sha256": "850d2515a5f844f864e65af10ad19f1c14e6213625d6395179af25a238edc52d",
-          "sha1": "64ec2fe6e9cc11e6f37ce9d87fa1ff4aec4fa5ec",
-          "md5": "4ecbae8feb867b4e99ecd60d3aeb208b"
+          "sha512": "ad9de9a7055ba66dc68ffc6dfddd09d8b953588a5e98b8d70bcf513b86da2a023175c8168ac087326b36855d8bfeb35e1a0d84d44afab304f03e2d1514da51ad",
+          "sha256": "7b09627cf56ae144f3896e3db20d70c42f96298d179892c6c075ed6b55cddb7b",
+          "sha1": "186991a84296e36d3b59728799d7b9ecd80ebbbe",
+          "md5": "a263107fe4d464bba15561858eef1c42"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "anima-core-logger-2.0.0-RELEASE.jar",
           "url": "anima-core-logger-2.0.0-RELEASE.jar",
           "size": 3004,
-          "sha512": "bde49f822ba1164fe64111d48116fef29815865e7b0ba40beb8ec815991be987493cf0d9a7b0c5a2a02d3bddd0fa2a01d5aa3c40d665b1a15d725979d5a32431",
-          "sha256": "850d2515a5f844f864e65af10ad19f1c14e6213625d6395179af25a238edc52d",
-          "sha1": "64ec2fe6e9cc11e6f37ce9d87fa1ff4aec4fa5ec",
-          "md5": "4ecbae8feb867b4e99ecd60d3aeb208b"
+          "sha512": "ad9de9a7055ba66dc68ffc6dfddd09d8b953588a5e98b8d70bcf513b86da2a023175c8168ac087326b36855d8bfeb35e1a0d84d44afab304f03e2d1514da51ad",
+          "sha256": "7b09627cf56ae144f3896e3db20d70c42f96298d179892c6c075ed6b55cddb7b",
+          "sha1": "186991a84296e36d3b59728799d7b9ecd80ebbbe",
+          "md5": "a263107fe4d464bba15561858eef1c42"
         }
       ]
     }

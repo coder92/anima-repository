@@ -28,10 +28,10 @@
           "name": "anima-service-2.0.0-RELEASE.jar",
           "url": "anima-service-2.0.0-RELEASE.jar",
           "size": 2021,
-          "sha512": "7063337ecd4ebf908937974eefd7596ecd611f00ce5a47ed5c71ec357630ccdc1c197e45893b0d50e31b7ca18604b9f15d8bf15ef30a3047b2d820cce83d3d0a",
-          "sha256": "ccedcfbaad09f94d688c4269692fad1861d3fae9a48df57664efdb593bf17824",
-          "sha1": "6f5a8c4379c89bbaeafa0a1d7ca14e749e524fc4",
-          "md5": "d95de8f3a9cedf7cc25270d500bbdb63"
+          "sha512": "d540cf2b717e104c264eb4f5756f0162f67101a0211280b24fffccdba45818a77a90fbb1e4a590265527dce431be53e71943012ed5590d04d45f2b623740a1ae",
+          "sha256": "a141a45d3fceb87393a2609c9a2480b1f4e9236219571a7c7dd78a539064480a",
+          "sha1": "0fdb6a954e636a79a414e3e326aeb067a3bac896",
+          "md5": "394bde2f203c2e0e063de4ab440a145e"
         }
       ]
     },
@@ -155,10 +155,10 @@
           "name": "anima-service-2.0.0-RELEASE.jar",
           "url": "anima-service-2.0.0-RELEASE.jar",
           "size": 2021,
-          "sha512": "7063337ecd4ebf908937974eefd7596ecd611f00ce5a47ed5c71ec357630ccdc1c197e45893b0d50e31b7ca18604b9f15d8bf15ef30a3047b2d820cce83d3d0a",
-          "sha256": "ccedcfbaad09f94d688c4269692fad1861d3fae9a48df57664efdb593bf17824",
-          "sha1": "6f5a8c4379c89bbaeafa0a1d7ca14e749e524fc4",
-          "md5": "d95de8f3a9cedf7cc25270d500bbdb63"
+          "sha512": "d540cf2b717e104c264eb4f5756f0162f67101a0211280b24fffccdba45818a77a90fbb1e4a590265527dce431be53e71943012ed5590d04d45f2b623740a1ae",
+          "sha256": "a141a45d3fceb87393a2609c9a2480b1f4e9236219571a7c7dd78a539064480a",
+          "sha1": "0fdb6a954e636a79a414e3e326aeb067a3bac896",
+          "md5": "394bde2f203c2e0e063de4ab440a145e"
         }
       ]
     }

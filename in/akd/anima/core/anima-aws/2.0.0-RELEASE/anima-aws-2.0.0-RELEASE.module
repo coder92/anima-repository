@@ -28,10 +28,10 @@
           "name": "anima-aws-2.0.0-RELEASE.jar",
           "url": "anima-aws-2.0.0-RELEASE.jar",
           "size": 2892,
-          "sha512": "9bcdff3984042bfb9d65ad4a7a7ed651db5e998c67e826a8c697192abd3bd6e2ce935b8b9309a4785e424bb980fe8f9b1546100c51cb2d98dc06a7e6c3b933d0",
-          "sha256": "b6615fc76b32fada47f933427178a7381f7469e01b45d3dbbd907f7a13dc2ba2",
-          "sha1": "2376b3f492a8fe8d06498b969fd81b48fdd66fbe",
-          "md5": "2c3c5eb10717e5737f404856a675aec2"
+          "sha512": "b56c4b42d4ae1ddcd4339e1e0b30de608808befb6c111a0c0e9b3f270de1e228131eca05993cd63ea7a2f4c1040b735d678ec817b40f0147380c27a2d59275c3",
+          "sha256": "2b5c79b83c224f36dbfe9c46762ebfb5b50cfc2ac0615bbfe40154a0a7dbe9e2",
+          "sha1": "4e30a3ef8811aae26066e939e8d76bff7fe2a6a3",
+          "md5": "967cd0d1b548b573fa4b7eb5c40110b1"
         }
       ]
     },
@@ -149,10 +149,10 @@
           "name": "anima-aws-2.0.0-RELEASE.jar",
           "url": "anima-aws-2.0.0-RELEASE.jar",
           "size": 2892,
-          "sha512": "9bcdff3984042bfb9d65ad4a7a7ed651db5e998c67e826a8c697192abd3bd6e2ce935b8b9309a4785e424bb980fe8f9b1546100c51cb2d98dc06a7e6c3b933d0",
-          "sha256": "b6615fc76b32fada47f933427178a7381f7469e01b45d3dbbd907f7a13dc2ba2",
-          "sha1": "2376b3f492a8fe8d06498b969fd81b48fdd66fbe",
-          "md5": "2c3c5eb10717e5737f404856a675aec2"
+          "sha512": "b56c4b42d4ae1ddcd4339e1e0b30de608808befb6c111a0c0e9b3f270de1e228131eca05993cd63ea7a2f4c1040b735d678ec817b40f0147380c27a2d59275c3",
+          "sha256": "2b5c79b83c224f36dbfe9c46762ebfb5b50cfc2ac0615bbfe40154a0a7dbe9e2",
+          "sha1": "4e30a3ef8811aae26066e939e8d76bff7fe2a6a3",
+          "md5": "967cd0d1b548b573fa4b7eb5c40110b1"
         }
       ]
     }
