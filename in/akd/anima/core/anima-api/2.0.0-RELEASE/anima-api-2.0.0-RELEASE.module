@@ -28,10 +28,10 @@
           "name": "anima-api-2.0.0-RELEASE.jar",
           "url": "anima-api-2.0.0-RELEASE.jar",
           "size": 261,
-          "sha512": "56ef3be471485e578d208c39ad249ebeee4ef6158e19c734d7d0e5c22686d8ef7ac15d959d397fe96c8616f022e500974297cc68e4a4a84dc52d7ccb86c88a05",
-          "sha256": "2fd7612256aea70bcc592fe490985eb97c875c6c617749851f0a74080c2459ed",
-          "sha1": "2905b23972abac7402ce97ee87c6a82e5b78be93",
-          "md5": "966a9d8f84527f9a167f58f0cd3b1657"
+          "sha512": "1ce52702c397b91272c1edb6018a51570e6ef18b77b9a8af207b949c082e0fa6012d9c85c1be326e6df453474155af23131aeb7cbbf20725439a5382b22e5820",
+          "sha256": "a2ccc38e27decbc6c412bf336048720cde430eed419981c337459db36396ae09",
+          "sha1": "b7c1e969fd215f7c80538c9deda20d462da772d7",
+          "md5": "e89871a9025ebafcac098b4ed8653473"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "anima-api-2.0.0-RELEASE.jar",
           "url": "anima-api-2.0.0-RELEASE.jar",
           "size": 261,
-          "sha512": "56ef3be471485e578d208c39ad249ebeee4ef6158e19c734d7d0e5c22686d8ef7ac15d959d397fe96c8616f022e500974297cc68e4a4a84dc52d7ccb86c88a05",
-          "sha256": "2fd7612256aea70bcc592fe490985eb97c875c6c617749851f0a74080c2459ed",
-          "sha1": "2905b23972abac7402ce97ee87c6a82e5b78be93",
-          "md5": "966a9d8f84527f9a167f58f0cd3b1657"
+          "sha512": "1ce52702c397b91272c1edb6018a51570e6ef18b77b9a8af207b949c082e0fa6012d9c85c1be326e6df453474155af23131aeb7cbbf20725439a5382b22e5820",
+          "sha256": "a2ccc38e27decbc6c412bf336048720cde430eed419981c337459db36396ae09",
+          "sha1": "b7c1e969fd215f7c80538c9deda20d462da772d7",
+          "md5": "e89871a9025ebafcac098b4ed8653473"
         }
       ]
     }

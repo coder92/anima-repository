@@ -27,11 +27,11 @@
         {
           "name": "anima-crud-2.0.0-RELEASE.jar",
           "url": "anima-crud-2.0.0-RELEASE.jar",
-          "size": 90463,
-          "sha512": "21eeb73e7ebcce1db10186f9cf95928a0086906ddb34bb3ae8259259a8f082aa4067deb61a4c5b22d2ff847cc4104ec7660ba98b52c01328c108603d43c236f7",
-          "sha256": "bd992656a3aecb21fa039245c476e4195e128d37b19fdf59c7c01b1e84edb40a",
-          "sha1": "abffba106fca948a485c0e00e03aaf2d399629ba",
-          "md5": "7797bc19ffa334c480769d8fdeef98c9"
+          "size": 92006,
+          "sha512": "4ce81564a6d098f046d13c3fe0b5cb83c083bc3de1f9e36a8aa24560164bfcddfcee58fe0226912e7051d2b1afe9a5c0d0a2347d7a5e74d16ce1d83a741bc1c2",
+          "sha256": "4907b61ef6ab7dbdffb34f897489a5d610ca56f24b3545a5e58725327ef5a15a",
+          "sha1": "3b5696acda703de1875934e24c1097b5c3a42eae",
+          "md5": "348ced5dac0c0401ecf05e697bf343a9"
         }
       ]
     },
@@ -50,7 +50,13 @@
           "module": "spring-boot-starter-data-jpa",
           "version": {
             "requires": "2.3.9.RELEASE"
-          }
+          },
+          "excludes": [
+            {
+              "group": "com.zaxxer",
+              "module": "HikariCP"
+            }
+          ]
         },
         {
           "group": "com.google.auto.service",
@@ -64,11 +70,11 @@
         {
           "name": "anima-crud-2.0.0-RELEASE.jar",
           "url": "anima-crud-2.0.0-RELEASE.jar",
-          "size": 90463,
-          "sha512": "21eeb73e7ebcce1db10186f9cf95928a0086906ddb34bb3ae8259259a8f082aa4067deb61a4c5b22d2ff847cc4104ec7660ba98b52c01328c108603d43c236f7",
-          "sha256": "bd992656a3aecb21fa039245c476e4195e128d37b19fdf59c7c01b1e84edb40a",
-          "sha1": "abffba106fca948a485c0e00e03aaf2d399629ba",
-          "md5": "7797bc19ffa334c480769d8fdeef98c9"
+          "size": 92006,
+          "sha512": "4ce81564a6d098f046d13c3fe0b5cb83c083bc3de1f9e36a8aa24560164bfcddfcee58fe0226912e7051d2b1afe9a5c0d0a2347d7a5e74d16ce1d83a741bc1c2",
+          "sha256": "4907b61ef6ab7dbdffb34f897489a5d610ca56f24b3545a5e58725327ef5a15a",
+          "sha1": "3b5696acda703de1875934e24c1097b5c3a42eae",
+          "md5": "348ced5dac0c0401ecf05e697bf343a9"
         }
       ]
     }

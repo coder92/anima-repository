@@ -28,10 +28,10 @@
           "name": "anima-utility-2.0.0-RELEASE.jar",
           "url": "anima-utility-2.0.0-RELEASE.jar",
           "size": 3311,
-          "sha512": "6962c6cbb65d6d1ff6a4b844d6d641f06ab14fcce36617fb684394990c42a4a23b023e4f2f1113dc0661282bc55df70648c84eed6cb3c253ad65292b71d837ca",
-          "sha256": "a3f5387ec957060220a8e37bfe75b11e387e038704ee681f3418926ce8c17872",
-          "sha1": "01cccadd7d6a5b0c526e253b2ffb1fc653a9bb13",
-          "md5": "81475d366e9f49e3bd5d2e6721e3ac64"
+          "sha512": "ea1351b2f87d5f977a38ce21856a614ff0aff5c31ab00e63b4e1d0b8d7f8a58a6e859dadfcc33b12a11218605bcbe5d19e4b20e6834db0daf5a3b45cac42c940",
+          "sha256": "e43b777cb8cf8e48f69b2a335d128012893fcf1097540b4c61ce61a8e561f3c4",
+          "sha1": "338081dad0aa1a665057aec22125131419b164cc",
+          "md5": "d68937385058659e3b46e16c91a1ce16"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "anima-utility-2.0.0-RELEASE.jar",
           "url": "anima-utility-2.0.0-RELEASE.jar",
           "size": 3311,
-          "sha512": "6962c6cbb65d6d1ff6a4b844d6d641f06ab14fcce36617fb684394990c42a4a23b023e4f2f1113dc0661282bc55df70648c84eed6cb3c253ad65292b71d837ca",
-          "sha256": "a3f5387ec957060220a8e37bfe75b11e387e038704ee681f3418926ce8c17872",
-          "sha1": "01cccadd7d6a5b0c526e253b2ffb1fc653a9bb13",
-          "md5": "81475d366e9f49e3bd5d2e6721e3ac64"
+          "sha512": "ea1351b2f87d5f977a38ce21856a614ff0aff5c31ab00e63b4e1d0b8d7f8a58a6e859dadfcc33b12a11218605bcbe5d19e4b20e6834db0daf5a3b45cac42c940",
+          "sha256": "e43b777cb8cf8e48f69b2a335d128012893fcf1097540b4c61ce61a8e561f3c4",
+          "sha1": "338081dad0aa1a665057aec22125131419b164cc",
+          "md5": "d68937385058659e3b46e16c91a1ce16"
         }
       ]
     }

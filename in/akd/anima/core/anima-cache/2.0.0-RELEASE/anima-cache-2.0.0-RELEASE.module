@@ -28,10 +28,10 @@
           "name": "anima-cache-2.0.0-RELEASE.jar",
           "url": "anima-cache-2.0.0-RELEASE.jar",
           "size": 13878,
-          "sha512": "b0d322ae695c33cc673039c766012a0cc7d0737b2e90394f055672a088849c95c86eb63c39846d958c893cdc80a86b5bbe4f0897f6aeaf00bc30ddb98f5416fa",
-          "sha256": "1070da81075374eacfb87251dc4f04138a48380342a08bb9644a0035c0db510c",
-          "sha1": "1205252a1c65311411ac63cb19b09efc2d7df602",
-          "md5": "620be286156f4f3ca7f1eb4f6ce8d497"
+          "sha512": "a7da4815358e59b8608d738e693e0b89dd857e78683d2e18a271fedd52a560276d6130faaaedb77af56cdf13f140931eb78e92f3ba6dafcb908c9bddaebdde2e",
+          "sha256": "2e410fe59879f7506ad18301945bd032c2c0b432b0c52ce40910e87f92c7b9cd",
+          "sha1": "09a493e69f095889133c1dd07e72811c24067f9b",
+          "md5": "788efb0479d6e491519e2d1a43f4efc5"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "anima-cache-2.0.0-RELEASE.jar",
           "url": "anima-cache-2.0.0-RELEASE.jar",
           "size": 13878,
-          "sha512": "b0d322ae695c33cc673039c766012a0cc7d0737b2e90394f055672a088849c95c86eb63c39846d958c893cdc80a86b5bbe4f0897f6aeaf00bc30ddb98f5416fa",
-          "sha256": "1070da81075374eacfb87251dc4f04138a48380342a08bb9644a0035c0db510c",
-          "sha1": "1205252a1c65311411ac63cb19b09efc2d7df602",
-          "md5": "620be286156f4f3ca7f1eb4f6ce8d497"
+          "sha512": "a7da4815358e59b8608d738e693e0b89dd857e78683d2e18a271fedd52a560276d6130faaaedb77af56cdf13f140931eb78e92f3ba6dafcb908c9bddaebdde2e",
+          "sha256": "2e410fe59879f7506ad18301945bd032c2c0b432b0c52ce40910e87f92c7b9cd",
+          "sha1": "09a493e69f095889133c1dd07e72811c24067f9b",
+          "md5": "788efb0479d6e491519e2d1a43f4efc5"
         }
       ]
     }
