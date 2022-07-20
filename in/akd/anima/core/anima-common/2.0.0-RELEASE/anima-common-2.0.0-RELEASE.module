@@ -27,11 +27,11 @@
         {
           "name": "anima-common-2.0.0-RELEASE.jar",
           "url": "anima-common-2.0.0-RELEASE.jar",
-          "size": 15313,
-          "sha512": "aed93c68209dee2dec0fbf8c80f8b44e20bf2b377a39e95b800906ef66acaa0304f0d6b7e8196da04c24b4be95fc5aa51927d3954c43e20e3d9a1da1f25928ab",
-          "sha256": "1e27cf213bbba10881238b43c995ed8ed0247f380341eb3ada9a0c5b628ff51f",
-          "sha1": "d2695dfe38c38ba760c706f3cc230bdb2b347076",
-          "md5": "246af19689b2e14bfc7772daba546555"
+          "size": 15680,
+          "sha512": "3bedadd7b427857ca2b42c047c71540acab4abc9ddd690cb172f4f6f97564fb617c5d50447170c60852fe75c1fcdfabc82fd1393d6e98318008bbed9d2e1a6f8",
+          "sha256": "0e405c543bc10fbe814ab7870242233bf5b7e1028adcbe6cca40c3e67d210e94",
+          "sha1": "824c7ef637d4d1ac90bfb4721561b54cd723a18f",
+          "md5": "24e15e35f76118c561ce908f4325251e"
         }
       ]
     },
@@ -44,15 +44,114 @@
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-cache",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "javax.validation",
+          "module": "validation-api",
+          "version": {
+            "requires": "2.0.1.Final"
+          }
+        },
+        {
+          "group": "org.apache.tomcat",
+          "module": "tomcat-jdbc",
+          "version": {
+            "requires": "9.0.10"
+          }
+        },
+        {
+          "group": "javax.xml.bind",
+          "module": "jaxb-api",
+          "version": {
+            "requires": "2.3.1"
+          }
+        },
+        {
+          "group": "com.sun.xml.ws",
+          "module": "jaxws-ri",
+          "version": {
+            "requires": "2.3.2"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-jersey",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "org.glassfish.jersey.media",
+          "module": "jersey-media-multipart",
+          "version": {
+            "requires": "2.25.1"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-data-jpa",
+          "version": {
+            "requires": "2.3.9.RELEASE"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "21.0"
+          }
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-webmvc",
+          "version": {
+            "requires": "4.3.12.RELEASE"
+          }
+        },
+        {
+          "group": "com.nimbusds",
+          "module": "nimbus-jose-jwt",
+          "version": {
+            "requires": "4.34.2"
+          },
+          "excludes": [
+            {
+              "group": "net.minidev",
+              "module": "json-smart"
+            }
+          ]
+        },
+        {
+          "group": "in.akd.anima.core",
+          "module": "anima-core-logger",
+          "version": {
+            "requires": "2.0.0-RELEASE"
+          }
+        }
+      ],
       "files": [
         {
           "name": "anima-common-2.0.0-RELEASE.jar",
           "url": "anima-common-2.0.0-RELEASE.jar",
-          "size": 15313,
-          "sha512": "aed93c68209dee2dec0fbf8c80f8b44e20bf2b377a39e95b800906ef66acaa0304f0d6b7e8196da04c24b4be95fc5aa51927d3954c43e20e3d9a1da1f25928ab",
-          "sha256": "1e27cf213bbba10881238b43c995ed8ed0247f380341eb3ada9a0c5b628ff51f",
-          "sha1": "d2695dfe38c38ba760c706f3cc230bdb2b347076",
-          "md5": "246af19689b2e14bfc7772daba546555"
+          "size": 15680,
+          "sha512": "3bedadd7b427857ca2b42c047c71540acab4abc9ddd690cb172f4f6f97564fb617c5d50447170c60852fe75c1fcdfabc82fd1393d6e98318008bbed9d2e1a6f8",
+          "sha256": "0e405c543bc10fbe814ab7870242233bf5b7e1028adcbe6cca40c3e67d210e94",
+          "sha1": "824c7ef637d4d1ac90bfb4721561b54cd723a18f",
+          "md5": "24e15e35f76118c561ce908f4325251e"
         }
       ]
     }
