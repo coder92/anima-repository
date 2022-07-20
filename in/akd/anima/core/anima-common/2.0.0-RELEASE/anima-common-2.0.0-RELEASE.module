@@ -27,11 +27,11 @@
         {
           "name": "anima-common-2.0.0-RELEASE.jar",
           "url": "anima-common-2.0.0-RELEASE.jar",
-          "size": 20976,
-          "sha512": "26292aa023033c299f0e6969d9b8b1c0acdf9a213a98f65c8b98360ebdff75137a53cc4a7bac4b321779cd72d64d1aa8ea30079736b7049cbfdca8a99e065e28",
-          "sha256": "6fd6ee1ca7280a24ff6e6b225b79a87fae56ea158be12abee0bf144a3aa3dbe3",
-          "sha1": "fe71947e1d152331d4348f6dbd6307303400348e",
-          "md5": "3c5ccd327c810a51eac026ae93b65a0c"
+          "size": 15313,
+          "sha512": "aed93c68209dee2dec0fbf8c80f8b44e20bf2b377a39e95b800906ef66acaa0304f0d6b7e8196da04c24b4be95fc5aa51927d3954c43e20e3d9a1da1f25928ab",
+          "sha256": "1e27cf213bbba10881238b43c995ed8ed0247f380341eb3ada9a0c5b628ff51f",
+          "sha1": "d2695dfe38c38ba760c706f3cc230bdb2b347076",
+          "md5": "246af19689b2e14bfc7772daba546555"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "anima-common-2.0.0-RELEASE.jar",
           "url": "anima-common-2.0.0-RELEASE.jar",
-          "size": 20976,
-          "sha512": "26292aa023033c299f0e6969d9b8b1c0acdf9a213a98f65c8b98360ebdff75137a53cc4a7bac4b321779cd72d64d1aa8ea30079736b7049cbfdca8a99e065e28",
-          "sha256": "6fd6ee1ca7280a24ff6e6b225b79a87fae56ea158be12abee0bf144a3aa3dbe3",
-          "sha1": "fe71947e1d152331d4348f6dbd6307303400348e",
-          "md5": "3c5ccd327c810a51eac026ae93b65a0c"
+          "size": 15313,
+          "sha512": "aed93c68209dee2dec0fbf8c80f8b44e20bf2b377a39e95b800906ef66acaa0304f0d6b7e8196da04c24b4be95fc5aa51927d3954c43e20e3d9a1da1f25928ab",
+          "sha256": "1e27cf213bbba10881238b43c995ed8ed0247f380341eb3ada9a0c5b628ff51f",
+          "sha1": "d2695dfe38c38ba760c706f3cc230bdb2b347076",
+          "md5": "246af19689b2e14bfc7772daba546555"
         }
       ]
     }
